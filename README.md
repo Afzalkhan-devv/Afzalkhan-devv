@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my Github page!
 
-<!--
-**Afzalkhan-devv/Afzalkhan-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Afzal khan, a Software Engineer having 2+ years of experience working in full stack domains like.
+Checkout my GitHub repositories for Projects.
+Follow me on [LinkedIn](https://www.linkedin.com/in/afzalkhandev/).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Java**.
+- 🌱 I’m learning **Leetcode** and **GFG** improving my **Coding** skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Ask me about Java, Spring Boot, and more: ✨
+⭐ Software Engineering: Core Java | Spring Boot | Hibernate | JSP | RESTful APIs
+⭐ Database Management: Oracle | MySQL | SQL Query Optimization | Data Modelling
+⭐ DevOps and Cloud Tools: Azure | AWS (EC2, S3) | Bitbucket | WinSCP | CI/CD Pipelines
+⭐ Version Control & Collaboration: Git | GitHub | JIRA | Agile Development
+⭐ Testing & Debugging: JUnit | Log4j | Code Quality Assurance 
+
