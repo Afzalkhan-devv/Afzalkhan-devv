@@ -1,11 +1,11 @@
 ## Hi there 👋 Welcome to my Github page!
 
-I'm Afzal khan, a Software Engineer having 2+ years of experience working in full stack domains like.
+I'm Afzal khan, a Software Engineer having 2+ years of experience working in Java full stack domain.
 Checkout my GitHub repositories for Projects.
 Follow me on [LinkedIn](https://www.linkedin.com/in/afzalkhandev/).
 
 - 🔭 I’m currently working on **Java**.
-- 🌱 I’m learning **Leetcode** and **GFG** improving my **Coding** skills.
+- 🌱 I’m practicing **Leetcode** and **GFG** problems regularly for improving my **Coding** skills.
 
 ✨ Ask me about Java, Spring Boot, and more: ✨
 
@@ -15,3 +15,5 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/afzalkhandev/).
 ⭐ Version Control & Collaboration: Git | GitHub | JIRA | Agile Development
 ⭐ Testing & Debugging: JUnit | Log4j | Code Quality Assurance 
 
+
+********************************ThankYou********************************
