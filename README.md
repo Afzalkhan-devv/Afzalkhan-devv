@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my Github page!
 
-I'm Afzal khan, a Software Engineer having 2.7+ years of experience working in Java full stack domain.
+I'm Afzal khan, a Software Engineer having 3 years of experience working in Java full stack domain.
 Checkout my GitHub repositories for Projects.
 Follow me on [LinkedIn](https://www.linkedin.com/in/afzalkhandev/).
 
