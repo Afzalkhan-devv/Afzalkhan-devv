@@ -5,7 +5,7 @@ Checkout my GitHub repositories for Projects.
 Follow me on [LinkedIn](https://www.linkedin.com/in/afzalkhandev/).
 
 - 🔭 I’m currently working on **Java**.
-- 🌱 I’m practicing **Leetcode** and **GFG** problems regularly for improving my **Coding** skills.
+- 🌱 I’m practicing **Leetcode 80+** and **GFG** problems regularly for improving my **Coding** skills.
 
 ✨ Ask me about Java, Spring Boot, and more: ✨
 ⭐ Software Engineering: Core Java | Spring Boot | Hibernate | JSP | RESTful APIs
